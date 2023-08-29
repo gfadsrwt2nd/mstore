@@ -1,5 +1,5 @@
 # mstore
-Mstore is a simple Company Profile
+Mstore is a simple Company Profile with Bootstrap Framework CSS
 
 # Screenshoot
 <section>
